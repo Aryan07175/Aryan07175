@@ -8,20 +8,22 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 
 ## 🏆 Achievements & Highlights
 
-* 🥇 **1st Place – Hackathon** for **GST Fraud Detection** using Machine Learning
-* 🔬 **Research-focused ML Internship** at **IIIT Dharwad** (Biomedical AI – MRD Detection)
+* 🥇 **1st Place – Hackathon** for **GST Fraud Detection** using Machine Learning.(IIT DELHI).
+* 3rd place in research hackathon.(internal)
+* 🔬 **Research-focused ML Internship** at **IIIT Dharwad**
 * 📱 **Software Development Internship** at **Metapeak AI Technologies Pvt. Ltd.**
 * 🚀 Built multiple end-to-end ML & DL projects with real-world datasets
 
----
 
 ## 🛠️ Skills
 
 **Core Areas**
 
 * Machine Learning & Deep Learning
-* Data Science & Anomaly Detection
-* Software Development
+* Data Science & Anomaly Detection..
+* Software Development.
+* Dsa Enthusiast.
+* Problem solver
 
 **Programming Languages**
 
