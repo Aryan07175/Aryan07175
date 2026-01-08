@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi there, I'm Aryan Tiwary! 👋
+
+# Hi there, I'm Aryan  Btech 3 year cse student 👋
 
 I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett University**, passionate about **Machine Learning, Data Science, and Software Development**. I enjoy building real-world, impact-driven projects and working at the intersection of **AI research and scalable software systems**.
 
