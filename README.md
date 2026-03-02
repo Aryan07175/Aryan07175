@@ -81,35 +81,7 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 * Designed an **AI-powered recommendation system** based on soil health and geolocation.
 * Integrated **Google Gemini API** for intelligent recommendations.
 * **Tech Stack:** Python, Machine Learning, Gemini API
-* 🔗 Repo: [https://github.com/Aryan07175/Agri--Smart](https://github.com/Aryan07175/Agri--Smart)
-
----
-
-## 💼 Work Experience
-
-### 👨‍💻 Software Developer Intern – Metapeak AI Technologies Pvt. Ltd.
-
-**Aug 2025 – Oct 2025 | Remote (Noida, India)**
-
-* Integrated **AdMob monetization systems** into Android applications.
-* Optimized **app–backend connectivity** for stability and performance.
-* Implemented **app-to-app communication modules**.
-* Collaborated on debugging, testing, and deployment to improve system reliability.
-
----
-
-
-
-
----
-
-
-
-## 🌐 Connect With Me
-
-* 📧 Email: **[tiwaryaryan16@gmail.com](mailto:tiwaryaryan16@gmail.com)**
-* 💼 LinkedIn: [https://www.linkedin.com/in/aryan-6083b028b](https://www.linkedin.com/in/aryan-6083b028b)
-* 🧑‍💻 GitHub: [https://github.com/Aryan07175](https://github.com/Aryan07175)
+* 🔗 Repo: [https://github.com/Aryan07175/Agri--Smart](https://github.com/Aryan07175/Agri--Smart
 
 ---
 
