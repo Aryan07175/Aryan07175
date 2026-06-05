@@ -30,7 +30,7 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 
 - 🥇 **1st Place – Hackathon** for **GST Fraud Detection** using Machine Learning. *(IIT DELHI)*
 - 🏅 3rd place in research hackathon. *(Internal)*
-- 🖥️ **Software Development Internship** at **Metapeak AI Technologies Pvt. Ltd.**
+  
 - 🚀 Built multiple end-to-end ML & DL projects with real-world datasets
 
 ---
