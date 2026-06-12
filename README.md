@@ -69,14 +69,10 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
 
 ---
 
@@ -100,16 +96,7 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
 - 🔗 Repo: [hackathon-winning-ml-project](https://github.com/Aryan07175/hackathon-winning-ml-project)
 
----
 
-### 🌱 AgriSmart – Fertilizer Recommendation System
-
-- Designed an **AI-powered recommendation system** based on soil health and geolocation.
-- Integrated **Google Gemini API** for intelligent recommendations.
-- **Tech Stack:** Python, Machine Learning, Gemini API
-- 🔗 Repo: [Agri--Smart](https://github.com/Aryan07175/Agri--Smart)
-
----
 
 ## 📊 GitHub Stats
 
