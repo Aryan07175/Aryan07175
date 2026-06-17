@@ -112,25 +112,6 @@ I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett
 
 ---
 
-## 🌐 Socials
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *If you like my work, feel free to star the repositories and connect with me!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
 
 
 
