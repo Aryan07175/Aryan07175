@@ -1,18 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Aryan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Bennett%20University%20%7C%202023–2027&descAlignY=55&descSize=18"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Data+Science+Explorer+%F0%9F%93%8A;Hackathon+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
 
 I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett University**, passionate about **Machine Learning, Data Science, and Software Development**. I enjoy building real-world, impact-driven projects and working at the intersection of **AI research and scalable software systems**.
 
