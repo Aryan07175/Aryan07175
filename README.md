@@ -1,35 +1,5 @@
 
 
-I am a **Computer Science undergraduate (B.Tech CSE, 2023–2027)** at **Bennett University**, passionate about **Machine Learning, Data Science, and Software Development**. I enjoy building real-world, impact-driven projects and working at the intersection of **AI research and scalable software systems**.
-
-| 🔭 Currently Working On | Software development & ML projects focused on Python and web technologies |
-|---|---|
-| 🌱 Currently Learning | Advanced ML/DL, database systems, and scalable application design |
-| 💼 Open To | Internships, collaborative projects, and entry-level development roles |
-| 💬 Ask Me About | Core programming concepts, project planning, and beginner-friendly system design |
-| 🎯 Career Goal | Grow as a software engineer by contributing to impactful projects |
-| 📍 Areas of Interest | Data Structures & Algorithms, Backend Development, Full-Stack |
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 **1st Place – Hackathon** for **GST Fraud Detection** using Machine Learning. *(IIT DELHI)*
-- 🏅 3rd place in research hackathon. *(Internal)*
-  
-- 🚀 Built multiple end-to-end ML & DL projects with real-world datasets
-
----
-
-## 🛠️ Skills
-
-**Core Areas**
-- Machine Learning & Deep Learning
-- Data Science & Anomaly Detection
-- Software Development
-- DSA Enthusiast
-- Problem Solving
-
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
