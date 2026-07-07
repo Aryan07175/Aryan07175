@@ -2,17 +2,6 @@
 
 <div align="center">
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan07175&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan07175&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aryan07175&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-</div>
-
----
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Aryan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Bennett%20University%20%7C%202023–2027&descAlignY=55&descSize=18"/>
 
 </div>
