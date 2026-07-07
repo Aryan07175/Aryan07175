@@ -1,27 +1,4 @@
 
-## 🚀 Featured Projects
-
----
-
-### 🧠 Brain Tumor Detection using CNN
-
-- Developed a **CNN-based deep learning model** to classify brain tumors from MRI scans.
-- Applied **image preprocessing and data augmentation** to improve accuracy.
-- **Tech Stack:** Python, TensorFlow, OpenCV
-- 🔗 Repo: [Brain-Tumor-Detection-using-CNN](https://github.com/Aryan07175/Brain-Tumor-Detection-using-CNN-and-its-Models)
-
----
-
-### 🗒️ GST Fraud Detection *(Hackathon Winner at IIT DELHI 🥇)*
-
-- Built a machine learning system to identify **fraudulent GST transactions**.
-- Secured **1st place** in a competitive hackathon for innovation and accuracy.
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-- 🔗 Repo: [hackathon-winning-ml-project](https://github.com/Aryan07175/hackathon-winning-ml-project)
-
-
-
-## 📊 GitHub Stats
 
 <div align="center">
 
